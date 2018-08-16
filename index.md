@@ -43,13 +43,13 @@ Coline Devin: By appointment
 ## Piazza
 
 TBD
-<--->
+<!-
 Course announcements will be announced through Piazza. If you are in the class,
 [**sign up on Piazza**](https://piazza.com/class/j8waviey9h55w8).
 
 For more information about deep learning at Berkeley, sign up for the
 [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning).
-</--->
+->
 
 ## Syllabus
 
@@ -69,7 +69,7 @@ For more information about deep learning at Berkeley, sign up for the
       <td>08/28</td>
       <td><a href="https://berkeley-deep-learning.github.io/cs294-131-f18/speakers.html#stefano-soatto-the-emergence-theory-of-deep-learning">Nicholas Carlini</a></td>
       <td><u>Main Reading:</u>
-      <--->
+      <!-
       <ul>
       <li><a href="https://arxiv.org/abs/1706.01350">Emergence of Invariance and Disentanglement in Deep Representations</a> </li>
       <li><a href="https://arxiv.org/abs/1710.11029">Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles for Deep Networks</a></li>
@@ -81,7 +81,7 @@ For more information about deep learning at Berkeley, sign up for the
       </td>
       <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s18/speakers.html#stefano-soatto-the-emergence-theory-of-deep-learning">The Emergence Theory of Deep Learning</a></td>
       <td></td>
-      </--->
+      ->
     </tr>
 
   </tbody>

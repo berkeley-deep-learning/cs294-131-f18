@@ -24,7 +24,7 @@ layout: default
 
 <div class="instructor">
   <a href="https://people.eecs.berkeley.edu/~coline/">
-  <div class="instructorphoto"><img src="colinedevin.jpg"></div>
+  <div class="instructorphoto"><img src="colinedevin.jpg" height="140" width="140"></div>
   <div>Coline Devin
   </div>
   </a>

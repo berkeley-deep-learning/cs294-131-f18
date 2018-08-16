@@ -158,7 +158,7 @@ complete a research-quality class project.
 However, with instructors' permission, we do allow qualified undergraduate
 students to be in the class. If you are an undergraduate student and would like
 to enroll in the class, please fill out
-[**this form**](https://goo.gl/forms/akShIRmDLmmlaiu92)
+[**this form**](https://goo.gl/forms/l8x4gwzrVu70ksE13)
 and come to the first lecture of the class. Qualified undergraduates will be
 given instructor codes to be allowed to register for the class after the first
 lecture of the class, subject to space availability.

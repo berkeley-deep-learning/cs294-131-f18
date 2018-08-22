@@ -49,7 +49,6 @@ Course announcements will be announced through Piazza. If you are in the class,
 <!---
 For more information about deep learning at Berkeley, sign up for the
 [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning).
---->
 
 ## Syllabus
 

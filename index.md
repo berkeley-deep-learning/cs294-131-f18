@@ -42,13 +42,8 @@ Coline Devin: By appointment
 
 ## Piazza
 
-TBD
-
 Course announcements will be announced through Piazza. If you are in the class,
-[**sign up on Piazza**])(https://piazza.com/class/jl5o7zd1s439l).
-<!---
-For more information about deep learning at Berkeley, sign up for the
-[talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning).
+[**sign up on <a href="https://piazza.com/class/jl5o7zd1s439l">Piazza</a>**])().
 
 ## Syllabus
 

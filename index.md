@@ -1,5 +1,5 @@
 ---
-title: My page
+title: CS294-131 Fall 2018
 layout: default
 ---
 
@@ -43,10 +43,10 @@ Coline Devin: By appointment
 ## Piazza
 
 TBD
-<!---
-Course announcements will be announced through Piazza. If you are in the class,
-[**sign up on Piazza**](https://piazza.com/class/j8waviey9h55w8).
 
+Course announcements will be announced through Piazza. If you are in the class,
+[**sign up on Piazza**])(https://piazza.com/class/jl5o7zd1s439l).
+<!---
 For more information about deep learning at Berkeley, sign up for the
 [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning).
 --->
@@ -66,7 +66,7 @@ For more information about deep learning at Berkeley, sign up for the
   <tbody>
     <tr>
       <td>08/28</td>
-      <td>Nicholas Carlini</a></td>
+      <td>Nicholas Carlini</td>
       <td><u>Main Reading:</u>
       <ul>
       <li>TBD</li>
@@ -76,7 +76,7 @@ For more information about deep learning at Berkeley, sign up for the
       <li>TBD</li>
       </ul>
       </td>
-      <td>Not yet available</td>
+      <td>Adversarial Examples and Eavluating Robustness of Neural Networks</td>
       <td></td>
     </tr>
     <tr>
@@ -171,10 +171,9 @@ undergraduates.
 
 Students may enroll in this class for variable units.
 
-* **1 unit:** Participate in reading assignments (including serving as discussion lead once).
+* **1 unit:** Participate in reading assignments.
 * **3 units:** Both reading assignments and a project. Projects may fall into one of
   four categories:
-  * Traditional Literature Review of a deep learning topic (e.g., literature review of deep dialogue systems)
   * Distill-like Literature Review of a deep learning topic (e.g., a Distill-like blog post illustrating different optimization techniques used in deep learning)
   * Reimplement research code and open source it
   * Conference level research project
@@ -183,21 +182,15 @@ Students may enroll in this class for variable units.
 ## Deadlines
 
 * Reading assignment deadlines:
-  * For students,
-    * Submit questions by Friday noon
-    * Vote on the poll of discussion questions by Saturday 11:59 pm
-  * For discussion leads,
-    * Send form to collect questions from students by Wednesday 11:59 pm
-    * Summarize questions proposed by students to form the poll and send it by Friday 11:59 pm
-    * Summarize the poll to generate a ranked & categorized discussion question list and send the list to teaching staff by Sunday 7pm
-    * Answer all Piazza questions about the assigned readings, both the week
-    before and the week after the lecture.
+  * Submit questions about the reading material by Monday noon.
+* Project deadlines:
+  * Project proposal: Friday November 16, 2018, 11:59pm
+  * Final write up: Monday December 10, 2018, 11:59pm
+  * Project presentations: TBD
 
 ## Grading
 * 20% class participation
 * 25% weekly reading assignment
-  * 10% discussion leads
-  * 15% individual reading assignments
 * 55% project
 
 ## Additional Notes

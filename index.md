@@ -43,7 +43,8 @@ Coline Devin: By appointment
 ## Piazza
 
 Course announcements will be announced through Piazza. If you are in the class,
-[**sign up on <a href="https://piazza.com/class/jl5o7zd1s439l">Piazza</a>**])().
+[**sign up on Piazza**])(https://piazza.com/class/jl5o7zd1s439l).
+
 
 ## Syllabus
 

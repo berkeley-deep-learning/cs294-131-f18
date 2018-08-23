@@ -121,6 +121,96 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Not yet available</td>
       <td></td>
     </tr>
+    <tr>
+      <td>09/25</td>
+      <td>Fisher Yu</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>10/2</td>
+      <td>Michael Yartsev</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>10/9</td>
+      <td>David Dohan</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
+  <tr>
+      <td>10/16</td>
+      <td>TBD</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
+  <tr>
+      <td>10/23</td>
+      <td>Larry Zitnick</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
+  <tr>
+      <td>10/30</td>
+      <td>Kate Saenko</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 

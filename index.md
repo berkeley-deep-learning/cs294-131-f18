@@ -64,11 +64,13 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Nicholas Carlini</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li>https://arxiv.org/pdf/1802.00420.pdf</li>
+        <li>https://arxiv.org/pdf/1802.05666.pdf</li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li>https://arxiv.org/pdf/1706.06083.pdf</li>
+        <li>https://arxiv.org/pdf/1608.04644.pdf</li>
       </ul>
       </td>
       <td>Adversarial Examples and Eavluating Robustness of Neural Networks</td>
@@ -167,12 +169,12 @@ undergraduates.
 Students may enroll in this class for variable units.
 
 * **1 unit:** Participate in reading assignments.
-* **3 units:** Both reading assignments and a project. Projects may fall into one of
+* **2 units:** Both reading assignments and a project. Projects may fall into one of
   four categories:
   * Distill-like Literature Review of a deep learning topic (e.g., a Distill-like blog post illustrating different optimization techniques used in deep learning)
   * Reimplement research code and open source it
   * Conference level research project
-* You **may not** take this class for **4 units**.
+* You **may not** take this class for **3 or 4 units**.
 
 ## Deadlines
 

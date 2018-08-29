@@ -81,11 +81,11 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Trevor Darrell</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li>https://arxiv.org/abs/1704.05526</li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li>https://arxiv.org/abs/1601.01705</li>
       </ul>
       </td>
       <td>Not yet available</td>

@@ -93,14 +93,15 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
       <td>09/11</td>
-      <td>TBD</td>
+      <td>Coline Devin</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li>https://arxiv.org/abs/1708.04225</li>
+      <li>https://arxiv.org/abs/1609.07088</li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li>https://arxiv.org/abs/1509.06113</li>
       </ul>
       </td>
       <td>Not yet available</td>

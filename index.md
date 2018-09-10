@@ -273,7 +273,7 @@ Students may enroll in this class for variable units.
   * Submit questions about the reading material by Monday noon.
 * Project deadlines:
   * Project proposal: Friday October 12, 2018, 11:59pm
-  * Porject Milestone: Friday November 16, 2018, 11:59pm
+  * Project Milestone: Friday November 16, 2018, 11:59pm
   * Final write up: December 10, 2018, 11:59pm
   * Project presentations: (Tentative) December 4, 2018
 

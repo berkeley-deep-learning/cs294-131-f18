@@ -73,7 +73,7 @@ Course announcements will be announced through Piazza. If you are in the class,
         <li>https://arxiv.org/pdf/1608.04644.pdf</li>
       </ul>
       </td>
-      <td>Adversarial Examples and Eavluating Robustness of Neural Networks</td>
+      <td><a href="https://www.youtube.com/watch?v=EkY9GGGCLhA&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=2&t=0s">Video</a></td>
       <td></td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <li>https://arxiv.org/abs/1601.01705</li>
       </ul>
       </td>
-      <td>Not yet available</td>
+      <td><a href="https://www.youtube.com/watch?v=GSPgK5GrsIM&index=2&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
       <td></td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <li>https://arxiv.org/abs/1509.06113</li>
       </ul>
       </td>
-      <td>Not yet available</td>
+      <td><a href="https://www.youtube.com/watch?v=94o64zdcLmA&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=3&t=50s">Video</a></td>
       <td></td>
     </tr>
     <tr>

@@ -112,11 +112,13 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Amir Zamir</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li><a href="http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf">Taskonomy</a></li>
+        <li><a href="https://arxiv.org/abs/1704.06888">Time Contrastive Networks</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li><a href="https://arxiv.org/abs/1505.05192">https://arxiv.org/abs/1505.05192</a></li>
+        <li><a href="https://arxiv.org/abs/1403.6382">https://arxiv.org/abs/1403.6382</a></li>
       </ul>
       </td>
       <td>Not yet available</td>

@@ -171,7 +171,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
   <tr>
       <td>10/16</td>
-      <td>TBD</td>
+      <td>Lydia Liu</td>
       <td><u>Main Reading:</u>
       <ul>
       <li>TBD</li>

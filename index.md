@@ -201,7 +201,22 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
   <tr>
       <td>10/30</td>
-      <td>Kate Saenko</td>
+      <td>TBD</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>11/06</td>
+      <td>Ashutosh Saxena</td>
       <td><u>Main Reading:</u>
       <ul>
       <li>TBD</li>

@@ -201,7 +201,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
   <tr>
       <td>10/30</td>
-      <td>TBD</td>
+      <td>Chris Olah</td>
       <td><u>Main Reading:</u>
       <ul>
       <li>TBD</li>

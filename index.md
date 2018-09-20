@@ -130,7 +130,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Dilated_Residual_Networks_CVPR_2017_paper.pdf">Dilated Residual Networks</a></li>
-      <li><a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf">Deep Layer Aggregation</a>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf">Deep Layer Aggregation</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>

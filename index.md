@@ -129,11 +129,13 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Fisher Yu</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Dilated_Residual_Networks_CVPR_2017_paper.pdf">Dilated Residual Networks</a></li>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf">Deep Layer Aggregation</a>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf">Fully Convolutional Networks for Semantic Segmentation</a></li>
+        <li><a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a>
       </ul>
       </td>
       <td>Not yet available</td>

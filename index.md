@@ -135,7 +135,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <u>Background Reading:</u>
       <ul>
       <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf">Fully Convolutional Networks for Semantic Segmentation</a></li>
-        <li><a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a>
+        <li><a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a></li>
       </ul>
       </td>
       <td>Not yet available</td>

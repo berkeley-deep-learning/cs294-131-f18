@@ -146,11 +146,13 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Michael Yartsev</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li><a href="https://www.ebay.com/itm/Buffet-Crampon-R13-Key-of-A-Professional-Clarinet/202434500807?_trkparms=aid%3D888007%26algo%3DDISC.MBE%26ao%3D1%26asc%3D52885%26meid%3D37ad4a1037424828a3fa8878b99c8428%26pid%3D100009%26rk%3D1%26rkt%3D2%26sd%3D263416547030%26itm%3D202434500807&_trksid=p2047675.c100009.m1982">Paper 1</a></li>
+        <li><a href="http://science.sciencemag.org/content/340/6130/367">Paper 2</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li><a href="http://www.yossiyovel.com/images/PDF-Files/Prat%20Taub%20Yovel0415.pdf">Paper 3</a></li>
+        <li><a href="http://www.yossiyovel.com/images/PDF-Files/PratAzoulayYovel2017.pdf">Paper 4</a></li>
       </ul>
       </td>
       <td>Not yet available</td>
@@ -294,7 +296,7 @@ Students may enroll in this class for variable units.
   * Project proposal: Friday October 12, 2018, 11:59pm
   * Project Milestone: Friday November 16, 2018, 11:59pm
   * Final write up: December 10, 2018, 11:59pm
-  * Project presentations: (Tentative) December 4, 2018
+  * Project presentations: (Tentative) December 14, 2018
 
 ## Grading
 * 20% class participation

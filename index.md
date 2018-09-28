@@ -88,7 +88,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <li>https://arxiv.org/abs/1601.01705</li>
       </ul>
       </td>
-      <td><a href="https://www.youtube.com/watch?v=GSPgK5GrsIM&index=2&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=GSPgK5GrsIM&ihttp://science.sciencemag.org/content/sci/358/6362/466.full.pdf?ijkey=2oZLdw.mS6h5k&keytype=ref&siteid=scindex=2&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
       <td></td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Michael Yartsev</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li><a href="https://www.ebay.com/itm/Buffet-Crampon-R13-Key-of-A-Professional-Clarinet/202434500807?_trkparms=aid%3D888007%26algo%3DDISC.MBE%26ao%3D1%26asc%3D52885%26meid%3D37ad4a1037424828a3fa8878b99c8428%26pid%3D100009%26rk%3D1%26rkt%3D2%26sd%3D263416547030%26itm%3D202434500807&_trksid=p2047675.c100009.m1982">Paper 1</a></li>
+      <li><a href="http://science.sciencemag.org/content/sci/358/6362/466.full.pdf?ijkey=2oZLdw.mS6h5k&keytype=ref&siteid=sci">Paper 1</a></li>
         <li><a href="http://science.sciencemag.org/content/340/6130/367">Paper 2</a></li>
       </ul>
       <u>Background Reading:</u>

@@ -143,7 +143,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
       <tr>
       <td>10/2</td>
-      <td>Michael Yartsev</td>
+      <td>Michael Yartsev -> Cancelled, replaced by Lisa Hendricks</td>
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="http://science.sciencemag.org/content/sci/358/6362/466.full.pdf?ijkey=2oZLdw.mS6h5k&keytype=ref&siteid=sci">Paper 1</a></li>

@@ -168,8 +168,8 @@ Course announcements will be announced through Piazza. If you are in the class,
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li><a href="https://allennlp.org/elmo">ELMO</li>
-        <li><a href="http://jalammar.github.io/illustrated-transformer/">Illustrated Transformer</a>
+        <li><a href="https://allennlp.org/elmo">ELMO</a></li>
+        <li><a href="http://jalammar.github.io/illustrated-transformer/">Illustrated Transformer</a></li>
       </ul>
       </td>
       <td>Not yet available</td>

@@ -160,14 +160,16 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
       <tr>
       <td>10/9</td>
-      <td>David Dohan</td>
+      <td>David Dohan and Adams yu</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li><a href="https://arxiv.org/abs/1804.09541">QANet</a></li>
+        <li><a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">Attention is all you need</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li><a href="https://allennlp.org/elmo">ELMO</li>
+        <li><a href="http://jalammar.github.io/illustrated-transformer/">Illustrated Transformer</a>
       </ul>
       </td>
       <td>Not yet available</td>

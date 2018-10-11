@@ -180,11 +180,12 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Lydia Liu</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li><a href="https://arxiv.org/abs/1803.04383">DelayedImpact of Fair Machine Learning</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+        <li><a href="https://arxiv.org/abs/1610.07524">Fair prediction with disparate impact</a></li>
+        <li><a href="https://arxiv.org/abs/1610.02413">Equality of Opportunity in Supervised Learning</a></li>
       </ul>
       </td>
       <td>Not yet available</td>

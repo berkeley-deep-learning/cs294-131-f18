@@ -48,7 +48,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
 ## Syllabus
 
-table style="table-layout: fixed; font-size: 88%;">
+<table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>

@@ -48,7 +48,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
 ## Syllabus
 
-<table style="table-layout: fixed; font-size: 88%;">
+table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>
@@ -64,13 +64,13 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Nicholas Carlini</td>
       <td><u>Main Reading:</u>
       <ul>
-        <li>https://arxiv.org/pdf/1802.00420.pdf</li>
-        <li>https://arxiv.org/pdf/1802.05666.pdf</li>
+	<li>https://arxiv.org/pdf/1802.00420.pdf</li>
+	<li>https://arxiv.org/pdf/1802.05666.pdf</li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-        <li>https://arxiv.org/pdf/1706.06083.pdf</li>
-        <li>https://arxiv.org/pdf/1608.04644.pdf</li>
+	<li>https://arxiv.org/pdf/1706.06083.pdf</li>
+	<li>https://arxiv.org/pdf/1608.04644.pdf</li>
       </ul>
       </td>
       <td><a href="https://www.youtube.com/watch?v=EkY9GGGCLhA&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=2&t=0s">Video</a></td>
@@ -96,7 +96,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Coline Devin</td>
       <td><u>Main Reading:</u>
       <ul>
-        <li>https://arxiv.org/abs/1708.04225</li>
+	<li>https://arxiv.org/abs/1708.04225</li>
       <li>https://arxiv.org/abs/1609.07088</li>
       </ul>
       <u>Background Reading:</u>
@@ -112,13 +112,13 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Amir Zamir</td>
       <td><u>Main Reading:</u>
       <ul>
-        <li><a href="http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf">Taskonomy</a></li>
-        <li><a href="https://arxiv.org/abs/1704.06888">Time Contrastive Networks</a></li>
+	<li><a href="http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf">Taskonomy</a></li>
+	<li><a href="https://arxiv.org/abs/1704.06888">Time Contrastive Networks</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-        <li><a href="https://arxiv.org/abs/1505.05192">https://arxiv.org/abs/1505.05192</a></li>
-        <li><a href="https://arxiv.org/abs/1403.6382">https://arxiv.org/abs/1403.6382</a></li>
+	<li><a href="https://arxiv.org/abs/1505.05192">https://arxiv.org/abs/1505.05192</a></li>
+	<li><a href="https://arxiv.org/abs/1403.6382">https://arxiv.org/abs/1403.6382</a></li>
       </ul>
       </td>
       <td><a href="https://www.youtube.com/watch?v=3QuRmtIuIpM&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=4">Video</a></td>
@@ -135,7 +135,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <u>Background Reading:</u>
       <ul>
       <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf">Fully Convolutional Networks for Semantic Segmentation</a></li>
-        <li><a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a></li>
+	<li><a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a></li>
       </ul>
       </td>
       <td><a href="https://www.youtube.com/watch?v=nQCSCFXVJuA&index=5&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video></a></td>
@@ -161,13 +161,13 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>David Dohan and Adams yu</td>
       <td><u>Main Reading:</u>
       <ul>
-        <li><a href="https://arxiv.org/abs/1804.09541">QANet</a></li>
-        <li><a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">Attention is all you need</a></li>
+	<li><a href="https://arxiv.org/abs/1804.09541">QANet</a></li>
+	<li><a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">Attention is all you need</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-        <li><a href="https://allennlp.org/elmo">ELMO</a></li>
-        <li><a href="http://jalammar.github.io/illustrated-transformer/">Illustrated Transformer</a></li>
+	<li><a href="https://allennlp.org/elmo">ELMO</a></li>
+	<li><a href="http://jalammar.github.io/illustrated-transformer/">Illustrated Transformer</a></li>
       </ul>
       </td>
       <td><a href="https://www.youtube.com/watch?v=Qc6P0xCUlw4&index=7&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
@@ -178,12 +178,12 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Lydia Liu</td>
       <td><u>Main Reading:</u>
       <ul>
-        <li><a href="https://arxiv.org/abs/1803.04383">DelayedImpact of Fair Machine Learning</a></li>
+	<li><a href="https://arxiv.org/abs/1803.04383">DelayedImpact of Fair Machine Learning</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-        <li><a href="https://arxiv.org/abs/1610.07524">Fair prediction with disparate impact</a></li>
-        <li><a href="https://arxiv.org/abs/1610.02413">Equality of Opportunity in Supervised Learning</a></li>
+	<li><a href="https://arxiv.org/abs/1610.07524">Fair prediction with disparate impact</a></li>
+	<li><a href="https://arxiv.org/abs/1610.02413">Equality of Opportunity in Supervised Learning</a></li>
       </ul>
       </td>
       <td><a href="https://www.youtube.com/watch?v=gUL-5AAJnlU&index=8&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
@@ -195,11 +195,11 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="https://dl.dropboxusercontent.com/s/293tu0hh9ww08co/r-cnn-cvpr.pdf?dl=0">Rich Feature Hierarchies</a></li>
-        <li><a href="https://arxiv.org/pdf/1703.06870">Mask RCNN</a></li>
+	<li><a href="https://arxiv.org/pdf/1703.06870">Mask RCNN</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-        <li><a href=https://arxiv.org/abs/1512.03385">Deep Residual Learning</a></li>
+	<li><a href="https://arxiv.org/abs/1512.03385">Deep Residual Learning</a></li>
       </ul>
       </td>
       <td><a href="https://www.youtube.com/watch?v=inRApAtKXm4&index=10&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
@@ -210,8 +210,8 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Chris Olah</td>
       <td><u>Main Reading:</u>
       <ul>
-          <li><a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></li>
-          <li><a href="https://distill.pub/2018/building-blocks/">Building Blocks of Interpretability</a></li>
+	  <li><a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></li>
+	  <li><a href="https://distill.pub/2018/building-blocks/">Building Blocks of Interpretability</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
@@ -242,20 +242,20 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td><u>Main Reading:</u>
       <ul>
       <li><a href="http://science.sciencemag.org/content/sci/358/6362/466.full.pdf?ijkey=2oZLdw.mS6h5k&keytype=ref&siteid=sci">Paper 1</a></li>
-        <li><a href="http://science.sciencemag.org/content/340/6130/367">Paper 2</a></li>
+	<li><a href="http://science.sciencemag.org/content/340/6130/367">Paper 2</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
       <li><a href="http://www.yossiyovel.com/images/PDF-Files/Prat%20Taub%20Yovel0415.pdf">Paper 3</a></li>
-        <li><a href="http://www.yossiyovel.com/images/PDF-Files/PratAzoulayYovel2017.pdf">Paper 4</a></li>
+	<li><a href="http://www.yossiyovel.com/images/PDF-Files/PratAzoulayYovel2017.pdf">Paper 4</a></li>
       </ul>
       </td>
-      <td><a href="https://www.youtube.com/watch?v=_gx3GM1L8hI&index=6&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td>Not yet available</td>
       <td></td>
     </tr>
    <tr>
       <td>11/27</td>
-      <td>Anne Colline</td>
+      <td>Anne Collins</td>
       <td><u>Main Reading:</u>
       <ul>
       <li></li>
@@ -265,11 +265,12 @@ Course announcements will be announced through Piazza. If you are in the class,
       <li></li>
       </ul>
       </td>
-      <td><a href="https://www.youtube.com/watch?v=_gx3GM1L8hI&index=6&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td>Not yet available</td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
 
 ## Course description
 

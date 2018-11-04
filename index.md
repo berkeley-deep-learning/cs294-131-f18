@@ -122,6 +122,55 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td><a href="https://www.youtube.com/watch?v=3QuRmtIuIpM&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=4">Video</a></td>
       <td></td>
     </tr>
+      <tr>
+      <td>09/25</td>
+      <td>Fisher Yu</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Dilated_Residual_Networks_CVPR_2017_paper.pdf">Dilated Residual Networks</a></li>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf">Deep Layer Aggregation</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf">Fully Convolutional Networks for Semantic Segmentation</a></li>
+	<li><a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a></li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=nQCSCFXVJuA&index=5&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video></a></td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>10/2</td>
+      <td>Michael Yartsev -> Cancelled, replaced by Lisa Hendricks</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li></li>
+      <ul></ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=_gx3GM1L8hI&index=6&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>10/9</td>
+      <td>David Dohan and Adams yu</td>
+      <td><u>Main Reading:</u>
+      <ul>
+	<li><a href="https://arxiv.org/abs/1804.09541">QANet</a></li>
+	<li><a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">Attention is all you need</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+	<li><a href="https://allennlp.org/elmo">ELMO</a></li>
+	<li><a href="http://jalammar.github.io/illustrated-transformer/">Illustrated Transformer</a></li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=Qc6P0xCUlw4&index=7&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td></td>
+    </tr>
   </tbody>
   </table>
 

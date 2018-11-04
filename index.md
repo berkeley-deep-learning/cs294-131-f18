@@ -141,7 +141,7 @@ Course announcements will be announced through Piazza. If you are in the class,
   </tr>
    <tr>
       <td>10/2</td>
-      <td>Michael Yartsev:Cancelled, replaced by Lisa Hendricks</td>
+      <td>Michael Yartsev: Cancelled, replaced by Lisa Hendricks</td>
       <td><u>Main Reading:</u>
       <ul>
       <li></li>
@@ -149,7 +149,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       <u>Background Reading:</u>
       <ul>
       <li></li>
-      <ul></ul>
+      </ul>
       </td>
       <td><a href="https://www.youtube.com/watch?v=_gx3GM1L8hI&index=6&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
       <td></td>

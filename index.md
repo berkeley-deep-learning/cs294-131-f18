@@ -154,7 +154,6 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td><a href="https://www.youtube.com/watch?v=_gx3GM1L8hI&index=6&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
       <td></td>
     </tr>
-  
 </tbody>
 </table>
 

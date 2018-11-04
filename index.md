@@ -45,6 +45,86 @@ Coline Devin: By appointment
 Course announcements will be announced through Piazza. If you are in the class,
 [**sign up on Piazza**])(https://piazza.com/class/jl5o7zd1s439l).
 
+##Syllabus
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 5%;">Date</th>
+      <th style="width: 17%;">Speaker</th>
+      <th style="width: 50%;">Readings</th>
+      <th style="width: 15%;">Talk</th>
+      <th style="width: 15%;">Deadlines</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08/28</td>
+      <td>Nicholas Carlini</td>
+      <td><u>Main Reading:</u>
+      <ul>
+	<li>https://arxiv.org/pdf/1802.00420.pdf</li>
+	<li>https://arxiv.org/pdf/1802.05666.pdf</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+	<li>https://arxiv.org/pdf/1706.06083.pdf</li>
+	<li>https://arxiv.org/pdf/1608.04644.pdf</li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=EkY9GGGCLhA&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=2&t=0s">Video</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09/04</td>
+      <td>Trevor Darrell</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>https://arxiv.org/abs/1704.05526</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>https://arxiv.org/abs/1601.01705</li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=GSPgK5GrsIM&i?ijkey=2oZLdw.mS6h5k&keytype=ref&siteid=scindex=2&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09/11</td>
+      <td>Coline Devin</td>
+      <td><u>Main Reading:</u>
+      <ul>
+	<li>https://arxiv.org/abs/1708.04225</li>
+      <li>https://arxiv.org/abs/1609.07088</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>https://arxiv.org/abs/1509.06113</li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=94o64zdcLmA&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=3&t=50s">Video</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09/18</td>
+      <td>Amir Zamir</td>
+      <td><u>Main Reading:</u>
+      <ul>
+	<li><a href="http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf">Taskonomy</a></li>
+	<li><a href="https://arxiv.org/abs/1704.06888">Time Contrastive Networks</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+	<li><a href="https://arxiv.org/abs/1505.05192">https://arxiv.org/abs/1505.05192</a></li>
+	<li><a href="https://arxiv.org/abs/1403.6382">https://arxiv.org/abs/1403.6382</a></li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=3QuRmtIuIpM&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=4">Video</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+  </table>
+
 
 ## Course description
 

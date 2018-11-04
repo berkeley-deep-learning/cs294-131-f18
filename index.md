@@ -121,6 +121,7 @@ Course announcements will be announced through Piazza. If you are in the class,
       </td>
       <td><a href="https://www.youtube.com/watch?v=3QuRmtIuIpM&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1&index=4">Video</a></td>
 	    <td></td>
+	</tr>
       <tr>
       <td>09/25</td>
       <td>Fisher Yu</td>
@@ -137,8 +138,23 @@ Course announcements will be announced through Piazza. If you are in the class,
       </td>
       <td><a href="https://www.youtube.com/watch?v=nQCSCFXVJuA&index=5&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video></a></td>
       <td></td>
-    </tr>
   </tr>
+   <tr>
+      <td>10/2</td>
+      <td>Michael Yartsev -> Cancelled, replaced by Lisa Hendricks</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li></li>
+      <ul></ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=_gx3GM1L8hI&index=6&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td></td>
+    </tr>
+  
 </tbody>
 </table>
 

@@ -154,6 +154,118 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td><a href="https://www.youtube.com/watch?v=_gx3GM1L8hI&index=6&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
       <td></td>
     </tr>
+<tr>
+      <td>10/9</td>
+      <td>David Dohan and Adams yu</td>
+      <td><u>Main Reading:</u>
+      <ul>
+	<li><a href="https://arxiv.org/abs/1804.09541">QANet</a></li>
+	<li><a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">Attention is all you need</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+	<li><a href="https://allennlp.org/elmo">ELMO</a></li>
+	<li><a href="http://jalammar.github.io/illustrated-transformer/">Illustrated Transformer</a></li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=Qc6P0xCUlw4&index=7&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td></td>
+    </tr>
+  <tr>
+      <td>10/16</td>
+      <td>Lydia Liu</td>
+      <td><u>Main Reading:</u>
+      <ul>
+	<li><a href="https://arxiv.org/abs/1803.04383">DelayedImpact of Fair Machine Learning</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+	<li><a href="https://arxiv.org/abs/1610.07524">Fair prediction with disparate impact</a></li>
+	<li><a href="https://arxiv.org/abs/1610.02413">Equality of Opportunity in Supervised Learning</a></li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=gUL-5AAJnlU&index=8&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td></td>
+    </tr>
+  <tr>
+      <td>10/23</td>
+      <td>Larry Zitnick</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="https://dl.dropboxusercontent.com/s/293tu0hh9ww08co/r-cnn-cvpr.pdf?dl=0">Rich Feature Hierarchies</a></li>
+	<li><a href="https://arxiv.org/pdf/1703.06870">Mask RCNN</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+	<li><a href="https://arxiv.org/abs/1512.03385">Deep Residual Learning</a></li>
+      </ul>
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=inRApAtKXm4&index=10&list=PLkFD6_40KJIxH03tTW2HNSHbgcfTDGKV1">Video</a></td>
+      <td></td>
+    </tr>
+  <tr>
+      <td>10/30</td>
+      <td>Chris Olah</td>
+      <td><u>Main Reading:</u>
+      <ul>
+	  <li><a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></li>
+	  <li><a href="https://distill.pub/2018/building-blocks/">Building Blocks of Interpretability</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li></li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>11/06</td>
+      <td>Ashutosh Saxena</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li>TBD</li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11/13</td>
+      <td>Michael Yartsev</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li><a href="http://science.sciencemag.org/content/sci/358/6362/466.full.pdf?ijkey=2oZLdw.mS6h5k&keytype=ref&siteid=sci">Paper 1</a></li>
+	<li><a href="http://science.sciencemag.org/content/340/6130/367">Paper 2</a></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li><a href="http://www.yossiyovel.com/images/PDF-Files/Prat%20Taub%20Yovel0415.pdf">Paper 3</a></li>
+	<li><a href="http://www.yossiyovel.com/images/PDF-Files/PratAzoulayYovel2017.pdf">Paper 4</a></li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
+   <tr>
+      <td>11/27</td>
+      <td>Anne Collins</td>
+      <td><u>Main Reading:</u>
+      <ul>
+      <li></li>
+      </ul>
+      <u>Background Reading:</u>
+      <ul>
+      <li></li>
+      </ul>
+      </td>
+      <td>Not yet available</td>
+      <td></td>
+    </tr>
 </tbody>
 </table>
 

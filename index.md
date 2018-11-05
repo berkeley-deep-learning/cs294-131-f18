@@ -221,14 +221,16 @@ Course announcements will be announced through Piazza. If you are in the class,
   </tr>
   <tr>
       <td>11/06</td>
-      <td>Ashutosh Saxena</td>
+      <td>Richard Zhang</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li>TBD</li>
+	      <li><a href="https://arxiv.org/abs/1603.08511">Colorful Image Colorization</a></li>
+	      <li><a href="http://arxiv.org/abs/1801.03924">The Unreasonable Effectiveness of Deep Features as a Perceptual Metric</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
-      <li>TBD</li>
+      <li><a href="https://arxiv.org/abs/1711.11586">Toward Multimodal Image-to-Image Translation</a></li>
+	      <li><a href="https://arxiv.org/abs/1705.02999">Real-Time User-Guided Image Colorization</a></li>
       </ul>
       </td>
       <td>Not yet available</td>
@@ -249,6 +251,14 @@ Course announcements will be announced through Piazza. If you are in the class,
       </ul>
       </td>
       <td>Not yet available</td>
+      <td></td>
+    </tr>
+	   <tr>
+      <td>11/20</td>
+      <td>No Speaker for Thanksgiving Holiday</td>
+      <td>
+      </td>
+      <td></td>
       <td></td>
     </tr>
    <tr>

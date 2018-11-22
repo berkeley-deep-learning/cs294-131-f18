@@ -266,7 +266,8 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Anne Collins</td>
       <td><u>Main Reading:</u>
       <ul>
-      <li></li>
+       <li>Collins2018_JoCN.pdf</li>
+	      <li>Collins2018BookChapter.pdf</li>
       </ul>
       <u>Background Reading:</u>
       <ul>

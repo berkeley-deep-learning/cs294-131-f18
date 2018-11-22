@@ -266,8 +266,8 @@ Course announcements will be announced through Piazza. If you are in the class,
       <td>Anne Collins</td>
       <td><u>Main Reading:</u>
       <ul>
-       <li>Collins2018_JoCN.pdf</li>
-	      <li>Collins2018BookChapter.pdf</li>
+       <li><a href="https://berkeley-deep-learning.github.io/cs294-131-f18/Collins2018BookChapter.pdf">Book Chapter</a></li>
+	      <li><a href="https://berkeley-deep-learning.github.io/cs294-131-f18/Collins2018_JoCN.pdf">Collins2018_JoCN</a></li>
       </ul>
       <u>Background Reading:</u>
       <ul>
